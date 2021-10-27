@@ -8,7 +8,8 @@
     5) It can make panorama picture.  
     6) It can change face with some special character.  
 ### 2. Setting  
-    1) Needed Tkinter, Pillow, OpenCV-Python, Numpy, Dlib library.  
+    1) Needed Tkinter, Pillow, OpenCV-Python, Numpy, Dlib library. 
+    2) Download shape_predictor_68_face_landmarks.dat file to use dlib Landmark points.  
 ### 3. self_camera_application.py  
     1) It has one class and just declare.
 ### 4. Language  
