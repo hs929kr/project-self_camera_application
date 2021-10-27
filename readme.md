@@ -21,19 +21,13 @@
     2) face  
 ![face](./data/face.png)  
     
-    1) brighness+40
-![face_brightness-40](./data/face_brightness+40.png)  
+    1) brighness
+![face_brightness-40](./data/brightness.png)  
 
-    3) brighness-40
-![face_brightness+40](./data/face_brightness-40.png)
+    4) contrast
+![regional_naver](./data/contrast.png)   
 
-    4) contrast+40
-![regional_naver](./data/face_contrast+40.png)  
-
-    5) contrast-40
-![regional_naver](./data/face_contrast-40.png) 
-
-    6) blur and liquify
+    1) blur and liquify
 ![regional_naver](./data/blur_and_liquify.png)  
 
     7) face change
