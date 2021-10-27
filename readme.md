@@ -15,10 +15,13 @@
 ### 4. Language  
     1) Python  
 ### 5. Result  
-    1) face  
+    1) APP
+![APP](./data/app.png)  
+
+    2) face  
 ![face](./data/face.png)  
     
-    2) brighness+40
+    1) brighness+40
 ![face_brightness-40](./data/face_brightness+40.png)  
 
     3) brighness-40
